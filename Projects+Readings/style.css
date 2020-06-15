@@ -6,8 +6,11 @@ Body{
   color: white;
 }
 h1{
-  font-size: 100px;
-  font-weight: bolder;
+  font-size: 90px;
+  font-weight:bolder;
+  margin: 100px 130px 5px;
+}
+h2{
   margin: 100px 130px 5px;
 }
 p{
@@ -20,5 +23,5 @@ p{
   text-align: left;
 }
 .right{
-  text-align: right;
+text-align: right;
 }
