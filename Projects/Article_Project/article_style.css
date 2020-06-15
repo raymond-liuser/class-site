@@ -1,0 +1,54 @@
+body {
+  background-color:#ffeecc;
+  font-family: 'helvetica', sans-serif;
+  margin: 50px 200px;
+}
+
+h4{
+text-align: center;
+}
+
+img{
+  max-width: 100%;
+  }
+
+.small-img{
+  width: 150px;
+}
+
+.large-img{
+  width: 500px;
+  display: block;
+width: 50%;
+}
+
+p {
+  font-size:17px;
+  color:#4d3300;
+}
+h1 {
+
+}
+.orange {
+  background: blue;
+  width: 700px;
+  border: 2px dashed blue;
+  border-radius: 20px;
+  /* padding: 60 60 60 120; */
+/* padding: top right bottom left */
+/* padding: top/bottom left/right */
+  /* margin: 300 */
+  line-height: 40px;
+  font-family: 'helvetica', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: red;
+  font-style: normal;
+  font-weight: bold;
+}
+/* you can target em with
+em{
+ font-style: normal;
+ blahblahblah
+} */
