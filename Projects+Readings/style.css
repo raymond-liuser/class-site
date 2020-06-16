@@ -19,9 +19,27 @@ p{
   margin-left: 130px;
   margin-right: 130px;
 }
-.left{
-  text-align: left;
+.topleft{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  left: 15px
 }
-.right{
-text-align: right;
+.topright{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  right: 15px
+}
+.bottomleft{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  left: 15px
+}
+.bottomright{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  right: 15px
 }

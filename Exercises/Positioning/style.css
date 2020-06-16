@@ -6,6 +6,31 @@ body {
   margin: 20px;
 }
 
+.topleft{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  left: 15px
+}
+.topright{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  right: 15px
+}
+.bottomleft{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  left: 15px
+}
+.bottomright{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  right: 15px
+}
+
 p{
   background-color: red;
   display: inline-block;
