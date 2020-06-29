@@ -1,0 +1,9 @@
+.show {
+  background-color: yellow;
+  padding: 20px;
+  opacity: 0;
+}
+
+.hover1:hover + .show {
+  opacity: 1;
+}
