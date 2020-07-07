@@ -42,7 +42,9 @@ margin: 100px 400px 100px 100px;
 p{
   margin: 0px 150px 0px 350px;
 }
-
+ul{
+  margin: 0px 150px 0px 350px;
+}
 img{
   max-width: 100%;
   }
