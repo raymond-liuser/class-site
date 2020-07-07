@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+}
+
+.topleft{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  left: 15px
+}
+.topright{
+  display: inline-block;
+  position: fixed;
+  top: 15px;
+  right: 15px
+}
+.bottomleft{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  left: 15px
+}
+.bottomright{
+  display: inline-block;
+  position: fixed;
+  bottom: 15px;
+  right: 15px
+}
+
+p{
+  background-color: red;
+  display: inline-block;
+  padding: 20px;
+}
+.box{
+  background-color: green;
+  box-sizing: border-box;
+  height: 50px;
+  width: 400px;
+  padding: 60px;
+  border: 3px solid black;
+  position: fixed;
+  bottom:20px;
+  left:20px;
+}
