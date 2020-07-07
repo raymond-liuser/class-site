@@ -25,6 +25,9 @@ h1{
   font-weight: bolder;
   margin: 100px 130px 5px;
 }
+h2{
+  margin-left: 130px;
+}
 p{
   font-size: 17px;
   font-weight: lighter;
